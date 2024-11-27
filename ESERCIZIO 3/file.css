@@ -1,0 +1,14 @@
+
+#logo{width: 10%;}
+#slogan{border-top: 2px solid green; border-bottom: 2px transparent green; background-color: rgb(183, 233, 183);}
+#focaccia{width: 25%;}
+span{color: red;}
+.left{margin-left: 30%;}
+.centro{text-align:center ;}
+
+.varela-round-regular {
+    font-family: "Varela Round", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
